@@ -1,4 +1,4 @@
 - Hi, I’m Andres Diaz Pereira
-- I’m interested in science HPC
+- I’m interested in Quatum Computing
 - I’m currently studying Physics at the University of Costa Rica
 - How to reach me: github.flyer592@passinbox.com
